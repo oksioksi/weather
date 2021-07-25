@@ -1,2 +1,2 @@
 # weather
-Here is my first report
+Here is my first repository!
